@@ -1,0 +1,6 @@
+min_X: 8
+max_X: 16
+num_experiments: 7
+num_agents: 3
+temps: "[10 ** n for n in range(5)]"
+time: 10000
